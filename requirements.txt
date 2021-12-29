@@ -1,0 +1,10 @@
+#必要的库
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+warnings
+missingno
+sklearn
+xgboost
+tensorflow
